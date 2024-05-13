@@ -23,7 +23,7 @@
         <div class="profile-card" style="background-color: #A6A6A6;">
           <div class="container" style="background-color: #D9D9D9;"> 
                   <!--Start Tabel prestasi -->
-            <div class="container p-4" >
+            <div class="container p-4 table-responsive" >
               <h5 class="modal-title justify-content-center fw-bold mb-4" >NAMA Peserta DAN NILAI</h5>
               <table class="table table-bordered" style="background-color: #FFFFFF; border: 2px;">
                 <thead>

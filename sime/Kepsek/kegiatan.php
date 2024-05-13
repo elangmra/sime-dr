@@ -27,7 +27,7 @@
         <div class="profile-card" style="background-color: #A6A6A6;">
           <div class="container" style="background-color: #D9D9D9;">
             <!-- Start Tabel prestasi -->
-            <div class="container p-4" >
+            <div class="container p-4 table-responsive" >
               <h2 class="modal-title justify-content-center fw-bold" >ABSENSI KEGIATAN EKSTRAKULIKULER</h2>
               <p class="modal-title justify-content-center text-center fw-bold mb-4" >PRAMUKA <br> Pembina: Aisyah, S.Pd</p>
               <table class="table table-bordered" style="background-color: #FFFFFF; border: 2px;">

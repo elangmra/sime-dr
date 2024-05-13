@@ -30,7 +30,7 @@
           <div class="profile-card" style="background-color: #A6A6A6;">
             <div class="container" style="background-color: #D9D9D9;"> 
               <!--Start Tabel prestasi -->
-              <div class="container p-4" >
+              <div class="container p-4 table-responsive" >
                 <div class="container border-1 d-flex p-4" style="background-color: #797EFF; ">
                   <div class="col fw-bold">
                     <h2><u>LAPORAN PESERTA DAN NILAI </u></h2>
